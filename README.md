@@ -1,6 +1,6 @@
 # Medical-ML
 
-**Medical-ML** is a machine learning project that classifies particles as gamma or hadron using supervised learning techniques. It leverages the UCI Gamma Telescope Dataset to distinguish between the two types of events based on observed features.
+**Medical-ML** is a machine learning tool that classifies particles as gamma or hadron using supervised learning techniques. It leverages the UCI Gamma Telescope Dataset to distinguish between the two types of events based on observed features.
 
 ## Features
 
